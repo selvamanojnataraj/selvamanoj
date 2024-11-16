@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>photo gallery</title>
+    <link rel="stylesheet" href="scratch.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body style="background-color: hsl(120, 3%, 21%);">
+    <div >
+        <h1>photo gallery</h1>
+        <hr>
+        <div class="one">
+            <div>
+            <img src="images (1).jfif" alt="">
+            <h3>CSE</h3>
+            <p>most powerfull weapon in this modern world</p>
+        </div> 
+        <div>
+        <img src="images.jfif" alt="">
+            <h3>computer</h3>
+            <p>master of all engginering</p>
+        </div>
+        <div>
+            <img src="OIP.jfif" alt="">
+            <h3>food</h3>
+            <p>dont waste the food</p>
+        </div>
+        <div>
+            <img src="download.jfif" alt="">
+            <h3>fast food</h3>
+            <p>danger for our health</p>
+        </div>
+        <div>
+            <img src="peacock-bird-plumage-color-53184.jpeg" alt="">
+            <h3>peacock</h3>
+            <p>national bird of india</p>
+        </div>
+        <div>
+            <img src="pexels-photo-206648.jpeg" alt="">
+            <h3>nature</h3>
+            <p>nature most beautiful gift from god</p>
+        </div>
+        <div>
+            <img src="pexels-photo-358457.jpeg" alt="">
+            <h3>falls</h3>
+            <p>just enjoy our nature</p>
+        </div>
+        <div>
+            <img src="istockphoto-1976099664-612x612.webp" alt="">
+            <h3>AI</h3>
+            <p>most advanced thing in engginering world</p>
+        </div>
+        
+        </div>
+        <hr>
+
+
+        <div>
+            <h1>for more details</h1>
+            <ul>
+                <li>N.SELVAMANOJ ...!!!</li>
+                 <li> 😊 mano_njr_1718</li>
+                 <li> 9894394134</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+
+</html>
