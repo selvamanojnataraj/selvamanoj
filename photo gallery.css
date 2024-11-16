@@ -1,0 +1,34 @@
+body{
+    
+  font-family: "Raleway", sans-serif;
+  color: aliceblue;
+  background-image:url(../modern-gold-background-free-vector.jpg)
+ 
+  
+}
+h1{
+    text-align: center;
+}
+
+h3,p{
+    font-family: "Raleway", sans-serif;
+    width: 300px;
+}
+
+img{
+    padding: 10px;
+    height: 200px;
+    width: 300px;
+}
+
+.one{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 18%;
+    justify-content: space-around;
+}
+
+li{
+    text-align: center;
+    color:aliceblue;
+}
